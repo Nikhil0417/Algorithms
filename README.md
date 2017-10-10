@@ -1,2 +1,2 @@
 # Project_Algorithms
-In-Class Projects
+Implementation of various algorithms in C++
