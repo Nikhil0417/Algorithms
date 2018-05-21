@@ -1,2 +1,2 @@
-# Project_Algorithms
+# Algorithms
 Implementation of various algorithms in C++
