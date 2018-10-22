@@ -1,2 +1,2 @@
 # Algorithms
-Implementation of various algorithms in C++
+Implementation of various algorithms and Programming Challenges in C++, Python
